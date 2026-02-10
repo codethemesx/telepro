@@ -1,0 +1,8 @@
+
+{
+  "name": "TeleAds Pro - Plataforma de Anúncios Telegram",
+  "description": "Plataforma completa para gestão de anúncios em massa via bots do Telegram, com painéis de usuário, afiliado e administração robusta.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
